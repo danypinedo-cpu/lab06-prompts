@@ -35,8 +35,6 @@ tienda.buscar(1) -> muestra el cuaderno.
 Formato: Entrega solo el código en Python con ejemplos de prueba al final.
  ```
 ## Evaluacion del resultado
- ## Evaluacion del resultado
-
 A continuación se evalúa el código obtenido con el prompt final (Versión 3) frente a los requisitos técnicos solicitados:
 
 | Criterio de evaluación | Cumple (Sí / No) | ¿Por qué cumple? (Explicación simple) |
